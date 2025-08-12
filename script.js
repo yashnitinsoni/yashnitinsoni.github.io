@@ -10,7 +10,8 @@ const texts = [
   "n Analyst",
   " Python Developer",
   " Passionate Coder",
-  " Data Scientist",
+  " Software Developer",
+  " Data Analyst"
   " Data Engineer",
   " Machine Learning Engineer",
 ];
