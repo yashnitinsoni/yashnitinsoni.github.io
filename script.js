@@ -11,7 +11,7 @@ const texts = [
   " Python Developer",
   " Passionate Coder",
   " Software Developer",
-  " Data Analyst"
+  " Data Analyst",
   " Data Engineer",
   " Machine Learning Engineer",
 ];
